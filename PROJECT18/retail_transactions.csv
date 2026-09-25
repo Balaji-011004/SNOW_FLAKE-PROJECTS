@@ -1,0 +1,5 @@
+pos_id,timestamp,hashed_email,store_id,cpg_brand,basket_value,loyalty_tier
+POS-1001,2026-08-16 10:00:00,a3f8c12...,STORE-01,ApexFoods,145.50,GOLD
+POS-1002,2026-08-16 10:15:00,b9e4d56...,STORE-01,ApexFoods,89.20,SILVER
+POS-1003,2026-08-16 10:30:00,c1a2b3c...,STORE-02,ApexFoods,210.00,GOLD
+POS-1004,2026-08-16 11:00:00,d4e5f6a...,STORE-02,BioDrink,35.00,BRONZE
